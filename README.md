@@ -6,6 +6,18 @@ This project is perfect for:
 - 📚 Anyone learning Python, SQL, and Power BI
 - 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
+# 🛠️Tools & Technologies Used
+| Tool       | Purpose                    |
+| ---------- | -------------------------- |
+| Python     | Data cleaning and analysis |
+| Pandas     | Data manipulation          |
+| NumPy      | Numerical operations       |
+| PostgreSQL | SQL data analysis          |
+| Power BI   | Dashboard creation         |
+| Gamma      | Presentation creation      |
+| GitHub     | Project documentation      |
+
+
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
@@ -17,11 +29,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+# Project Workflow
+
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
-## 🛠️ How to Use This Project
+## steps involved in this project
 
-1. **Clone the repository**
+1. **Get raw dataset**
    ```bash
     https://github.com/jayaprakasamS/customer_behavior-analysis.git
    ```
